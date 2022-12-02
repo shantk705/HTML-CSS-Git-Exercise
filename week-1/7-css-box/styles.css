@@ -3,4 +3,11 @@
   border: 1px solid #4491db;
   border-radius: 4px;
   background: #fff;
+  padding: auto;
+}
+ul li {
+  display: flex;
+  justify-content: center;
+  padding: auto;
+  border: 5px solid white;
 }

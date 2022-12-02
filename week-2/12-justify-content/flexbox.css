@@ -7,3 +7,24 @@
 }
 
 /* Add your own CSS code below */
+
+.countries--first {
+  width: 500px;
+  justify-content: end;
+}
+
+.countries--second {
+  justify-content: space-evenly;
+  width: 550px;
+}
+.countries--tall {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  width: 500px;
+}
+.countries--fourth {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column-reverse;
+}
